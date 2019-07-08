@@ -4,4 +4,4 @@
 
 部内のハッカソンで作った。TAを担当した。
 
-![img/gameplay.png](img/gameplay.png)
+![./img/gameplay.png](./img/gameplay.png)
